@@ -60,5 +60,5 @@
     cd ~/src.git/javascript/webgl/helloworld
 
 ### XEmacs
-    vi /home/sarnobat/computers.git/antec/.xemacs
+    vi /home/sarnobat/computers.git/antec/.xemacs/sridhar.el
 
