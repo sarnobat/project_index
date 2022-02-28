@@ -2,6 +2,9 @@
 
 ## 2021
 
+### Applescript
+    vi ~/computers.git/mac/bin/osascript_javascript_mail.sh
+
 ### CGI
     cd /usr/lib/cgi-bin
     vi find.sh
@@ -25,6 +28,16 @@
 ### Linux kernel buildroot
     cd /media/sarnobat/unmirrored/trash/buildroot-2021.12/docker-buildroot
 
+### Pandoc
+
+    cd ~/sarnobat.git/www/portraits/handbook/
+    images/rohidekar_handbook/ -type f \
+        | sort  \
+        | perl -pe 's{^(.*)}{<img src="$1"><br>}g' \
+        | tee index_auto.html  \
+        | pandoc --from html --to latex \
+        | tee ~/sarnobat.git/tex/rohidekar_handbook_auto.tex
+
 ### R
     cd /Volumes/git/src.git/r/11_mint_spending_csv
     vi aggregate.r
@@ -35,5 +48,6 @@
 ### WebGL
     cd ~/src.git/javascript/webgl/helloworld
 
-
+### XEmacs
+    vi /home/sarnobat/computers.git/antec/.xemacs
 
