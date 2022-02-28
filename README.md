@@ -18,6 +18,10 @@
 ### ffplay
     vi ~/bin/ffplay_atletico_unathorized.sh
 
+### Greasemonkey
+    cd /Volumes/git/src.git/javascript/greasemonkey_tampermonkey_userscripts
+    vi mailboxforwarding.user.js
+
 ### Linux kernel buildroot
     cd /media/sarnobat/unmirrored/trash/buildroot-2021.12/docker-buildroot
 
