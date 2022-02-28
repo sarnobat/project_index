@@ -1,16 +1,16 @@
 # project_index
-    -   [2021](#section)
-        -   [Applescript](#applescript)
-        -   [CGI](#cgi)
-        -   [Chrome Extension](#chrome-extension)
-        -   [Coagulate TK](#coagulate-tk)
-        -   [ffplay](#ffplay)
-        -   [Greasemonkey](#greasemonkey)
-        -   [Linux kernel buildroot](#linux-kernel-buildroot)
-        -   [Pandoc](#pandoc)
-        -   [R](#r)
-        -   [WebGL](#webgl)
-        -   [XEmacs](#xemacs)
+-   [2021](#2021)
+    -   [Applescript](#applescript)
+    -   [CGI](#cgi)
+    -   [Chrome Extension](#chrome-extension)
+    -   [Coagulate TK](#coagulate-tk)
+    -   [ffplay](#ffplay)
+    -   [Greasemonkey](#greasemonkey)
+    -   [Linux kernel buildroot](#linux-kernel-buildroot)
+    -   [Pandoc](#pandoc)
+    -   [R](#r)
+    -   [WebGL](#webgl)
+    -   [XEmacs](#xemacs)
 ## 2021
 
 ### Applescript
