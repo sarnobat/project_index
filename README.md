@@ -32,6 +32,10 @@
 ### ffplay
     vi ~/bin/ffplay_atletico_unathorized.sh
 
+### Fuse Graphml
+    # Python only supported on Linux.
+    python_fuse.sh
+
 ### Greasemonkey
     cd /Volumes/git/src.git/javascript/greasemonkey_tampermonkey_userscripts
     vi mailboxforwarding.user.js
