@@ -29,6 +29,11 @@
     cd /media/sarnobat/unmirrored/src.git/tcltk/coagulate_tk
     vi coagulate.videos.tk
 
+### csvsql
+    vi ~/bin/csvsql_example.sh
+    cat ~/sarnobat.git/HSBC/full_history_from_mint/2021-10_all_transactions_since_beginning.csv  | head | csvsql --query "select [Date],[Description],[Amount] from stdin"
+
+
 ### ffplay
     vi ~/bin/ffplay_atletico_unathorized.sh
 
@@ -56,9 +61,8 @@
 ### R
     cd /Volumes/git/src.git/r/11_mint_spending_csv
     vi aggregate.r
-    
-    vi ~/bin/csvsql_example.sh
-    cat ~/sarnobat.git/HSBC/full_history_from_mint/2021-10_all_transactions_since_beginning.csv  | head | csvsql --query "select [Date],[Description],[Amount] from stdin"
+
+See also csvsql    
 
 ### WebGL
     cd ~/src.git/javascript/webgl/helloworld
@@ -66,3 +70,6 @@
 ### XEmacs
     vi /home/sarnobat/computers.git/antec/.xemacs/sridhar.el
 
+## 2020 and before
+
+### d3.js - Sankey
