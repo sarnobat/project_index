@@ -48,6 +48,8 @@
 ### Linux kernel buildroot
     cd /media/sarnobat/unmirrored/trash/buildroot-2021.12/docker-buildroot
 
+https://github.com/sarnobat/linux
+
 ### Pandoc
 
     cd ~/sarnobat.git/www/portraits/handbook/
